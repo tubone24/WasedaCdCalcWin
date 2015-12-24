@@ -1,0 +1,20 @@
+H:\WasedaCdCalcvb\WasedaCdCalcvb\bin\Debug\WasedaCdCalcvb.exe
+H:\WasedaCdCalcvb\WasedaCdCalcvb\bin\Debug\WasedaCdCalcvb.pdb
+H:\WasedaCdCalcvb\WasedaCdCalcvb\bin\Debug\WasedaCdCalcvb.xml
+H:\WasedaCdCalcvb\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.Form1.resources
+H:\WasedaCdCalcvb\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.Resources.resources
+H:\WasedaCdCalcvb\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.vbproj.GenerateResource.Cache
+H:\WasedaCdCalcvb\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.exe
+H:\WasedaCdCalcvb\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.xml
+H:\WasedaCdCalcvb\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.pdb
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.exe
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.xml
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.pdb
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\bin\Debug\WasedaCdCalcvb.exe
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\bin\Debug\WasedaCdCalcvb.pdb
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\bin\Debug\WasedaCdCalcvb.xml
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.Form1.resources
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\obj\x86\Debug\WasedaCdCalcvb.Resources.resources
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\tubone\git\WasedaCdCalcWin\WasedaCdCalcvb\obj\x86\Debug\GenerateResource.write.1.tlog
